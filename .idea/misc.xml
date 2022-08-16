@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/mapkit/Restaurants/app/src/main/res/drawable/ic_baseline_keyboard_arrow_up_24.xml" value="0.237" />
+        <entry key="..\:/mapkit/Restaurants/app/src/main/res/drawable/rounded.xml" value="0.237" />
+        <entry key="..\:/mapkit/Restaurants/app/src/main/res/layout/activity_main.xml" value="0.296195652173913" />
+        <entry key="..\:/mapkit/Restaurants/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.296195652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" project-jdk-name="15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
